@@ -1,0 +1,105 @@
+{
+  "title": "cahier des charges",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "utilisateur",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "groupes",
+          "id": 13,
+          "ideas": {}
+        },
+        "2": {
+          "title": "information ",
+          "id": 14,
+          "ideas": {}
+        },
+        "3": {
+          "title": "relation",
+          "id": 16
+        },
+        "4": {
+          "title": "wall",
+          "id": 20
+        },
+        "5": {
+          "title": "droit en écriture",
+          "id": 32
+        }
+      }
+    },
+    "2": {
+      "title": "pages",
+      "id": 12,
+      "ideas": {
+        "1": {
+          "title": "page d'accueil",
+          "id": 25,
+          "ideas": {}
+        },
+        "2": {
+          "title": "page astuces",
+          "id": 27
+        },
+        "3": {
+          "title": "page astuce",
+          "id": 28,
+          "ideas": {}
+        },
+        "4": {
+          "title": "page categorie",
+          "id": 30,
+          "ideas": {}
+        },
+        "5": {
+          "title": "page utilisateur",
+          "id": 33
+        },
+        "6": {
+          "title": "page groupe",
+          "id": 34
+        }
+      }
+    },
+    "3": {
+      "title": "navigabilité",
+      "id": 18
+    },
+    "-1": {
+      "title": "contenu",
+      "id": 3,
+      "ideas": {
+        "1": {
+          "title": "projets",
+          "id": 5,
+          "ideas": {}
+        },
+        "2": {
+          "title": "astuces",
+          "id": 6,
+          "ideas": {}
+        },
+        "3": {
+          "title": "étape",
+          "id": 7
+        },
+        "4": {
+          "title": "categorie",
+          "id": 22
+        }
+      }
+    },
+    "-2": {
+      "title": "licences",
+      "id": 17
+    },
+    "-3": {
+      "title": "version tablette/mobile",
+      "id": 21
+    }
+  },
+  "links": []
+}
